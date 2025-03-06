@@ -1,5 +1,5 @@
 # Coffee Sales Dashboard
-![Coffee Background Banner (4)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3DCOFFEE&psig=AOvVaw2dqJ6TZqU1q6D3v6noM1mP&ust=1741369376012000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCtmdaA9osDFQAAAAAdAAAAABAE)
+![Coffee Background Banner (4)](https://www.wallpaperflare.com/search?wallpaper=coffee+shop)
 
 ## Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
